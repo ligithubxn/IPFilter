@@ -11,7 +11,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<basedir.lib>${basedir}/src/main/webapp/WEB-INF/lib</basedir.lib>
-		<spring.version>4.0.5.RELEASE</spring.version>
+		<spring.version>5.3.4</spring.version>
 		<hibernate.version>4.3.5.Final</hibernate.version>
 		<logback.version>1.1.2</logback.version>
 		<jcloverslf4j.version>1.7.7</jcloverslf4j.version>
